@@ -1,0 +1,20 @@
+spring:
+  profiles:
+    active: dev
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+  flyway:
+    enabled: false
+    locations: classpath:db/migration
+
+  jackson:
+    default-property-inclusion: non_null
+
+jwt:
+  secret: 1d3a937d-ea08-4b9e-b72a-62ebed494e66
+  expiration: 999999
