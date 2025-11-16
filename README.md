@@ -1,24 +1,30 @@
-kotlin-spring-udemy(Instrutores: Gustavo Pinoti e Daniel Donato)
-API MERCADO-LIVRO
-Read Me First
+# kotlin-spring-udemy(Instrutores: [Gustavo Pinoti](https://www.linkedin.com/search/results/all/?keywords=gustavo%20pinoti&origin=RICH_QUERY_SUGGESTION&position=0&searchId=fd42726c-d024-48d0-b638-7eff4304014b&sid=%3BVX) e [Daniel Donato](https://www.linkedin.com/in/daniel-p-donato/))
+
+# API MERCADO-LIVRO
+
+# Read Me First
 The following was discovered as part of building this project:
 
-The original package name 'com.anacarolcosta.mercado-livro' is invalid and this project uses 'com.anacarolcosta.mercadolivro' instead.
-Getting Started
-Reference Documentation
+* The original package name 'com.anacarolcosta.mercado-livro' is invalid and this project uses 'com.anacarolcosta.mercadolivro' instead.
+
+# Getting Started
+
+### Reference Documentation
 For further reference, please consider the following sections:
 
-Official Gradle documentation
-Spring Boot Gradle Plugin Reference Guide
-Create an OCI image
-Spring Web
-Guides
+* [Official Gradle documentation](https://docs.gradle.org)
+* [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.7.1/gradle-plugin/reference/html/)
+* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.7.1/gradle-plugin/reference/html/#build-image)
+* [Spring Web](https://docs.spring.io/spring-boot/docs/2.7.1/reference/htmlsingle/#web)
+
+### Guides
 The following guides illustrate how to use some features concretely:
 
-Building a RESTful Web Service
-Serving Web Content with Spring MVC
-Building REST services with Spring
-Additional Links
+* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
+
+### Additional Links
 These additional references should also help you:
 
-Gradle Build Scans – insights for your project's build
+* [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
